@@ -5,9 +5,7 @@ A fun little app that fetches random advice or advice by ID from the Advice Slip
 
 ## 🚀 Live Demo
 
-👉 View on Netlify : 
-
-👉 View on GitHub Pages : 
+👉 View on Netlify : https://advice-wisdom.netlify.app/
 
 ## ✨ Features
 
